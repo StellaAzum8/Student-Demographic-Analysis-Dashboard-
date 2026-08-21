@@ -95,14 +95,6 @@ This dashboard provides a powerful tool for visualizing and analyzing a universi
 
 ---
 
-## Dashboard Preview
-
-**Page 1 — Student Demographics & Welfare**
-![Student Demographics Dashboard](assets/dashboard-page1-demographics.jpg)
-
-**Page 2 — Academic & Financial Overview**
-![Academic Overview Dashboard](assets/dashboard-page2-overview.jpg)
-
 ## Skills Demonstrated
 
 - **Data modeling** — structuring relationships between student, course, and residence data for accurate cross-filtering
@@ -126,5 +118,5 @@ This dashboard provides a powerful tool for visualizing and analyzing a universi
 ## Contact
 
 **Stella Azum**
-Data Analyst | Accounting Graduate
+Data Analyst
 [GitHub](https://github.com/StellaAzum8)
