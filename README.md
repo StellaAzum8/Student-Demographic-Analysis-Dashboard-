@@ -5,7 +5,10 @@
 
 **Power BI · DAX · Power Query**
 
-![Student Data Analysis Dashboard](assets/dashboard-page2-overview.jpg)
+
+![Image](https://drive.google.com/uc?export=view&id=1IsYiLxB_d34-Uqd8FhZzCdNPU8gTK9X6)
+![Image](https://drive.google.com/uc?export=view&id=13H5V8GK7iuWccr2xpreiu0uncE7SqBem)
+
 
 This Student Data Analysis Dashboard provides a comprehensive overview of a university's student population, focusing on key metrics such as academic level, financial allowances, community involvement, family background, and living arrangements. Here's a breakdown of the components and insights from the dashboard:
 
