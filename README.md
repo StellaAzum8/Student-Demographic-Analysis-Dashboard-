@@ -1,5 +1,3 @@
-# Student-Demographic-Analysis-Dashboard-
-
 
 # Student Data Analysis Dashboard
 
