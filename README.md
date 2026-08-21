@@ -5,8 +5,10 @@
 
 **Power BI · DAX · Power Query**
 
-
+**Page 1 — Student Demographics & Welfare**
 ![Image](https://drive.google.com/uc?export=view&id=1IsYiLxB_d34-Uqd8FhZzCdNPU8gTK9X6)
+
+**Page 2 — Academic & Financial Overview**
 ![Image](https://drive.google.com/uc?export=view&id=13H5V8GK7iuWccr2xpreiu0uncE7SqBem)
 
 
